@@ -1,0 +1,7 @@
+<?php echo "Red" ?> <br />
+<?php echo "White" ?> <br />
+<?php echo "" ?> <br />
+<?php echo "" ?> <br />
+<?php echo "" ?> <br />
+<?php echo "" ?> <br />
+<?php echo "" ?> <br />
